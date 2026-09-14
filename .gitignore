@@ -1,0 +1,14 @@
+# 本机扫描报告
+/report.html
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地配置
+.env
+.env.*
+!.env.example
+.DS_Store
